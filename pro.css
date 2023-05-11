@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: #e02626;
+    padding: 20px;
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+    text-decoration-style:none;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#portfplio{
+    background-color: rgb(250, 215, 247);
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(139, 16, 16);
+    padding: 10px;
+    color: aliceblue;
+}
